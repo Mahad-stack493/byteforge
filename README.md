@@ -33,13 +33,13 @@
 
 # 📊 GitHub Analytics
 
-<div align="center">
+div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahadkhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mahadkhan&theme=tokyonight&hide_border=true&background=0d1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadkhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
@@ -68,38 +68,4 @@ Working On:
   - Innovative Projects
   - Open Source Contributions
   - Modern Web Apps
-# 👾 Pac-Man Contribution Snake
 
-Add this section in your README to get a cool animated GitHub contribution graph like a Pac-Man/snake simulation.
-
----
-
-<div align="center">
-
-## 🟡 Contribution Activity
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/pacman-contribution-graph-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/pacman-contribution-graph.svg"
-  />
-  <img
-    alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/pacman-contribution-graph.svg"
-  />
-</picture>
-
-</div>
-
----
-
-# ⚙️ Setup Guide
-
-Create this file:
-
-```bash
-.github/workflows/pacman.yml
