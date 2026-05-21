@@ -1,6 +1,6 @@
-<div align="center">
 
-# ⚡ CSM TECH HUB ⚡
+
+# ⚡HEY👋 ITS ME MAHAD⚡
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00BFFF&height=220&section=header&text=CSM%20TECH%20HUB&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
