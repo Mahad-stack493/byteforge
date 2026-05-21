@@ -18,7 +18,6 @@
 
 # 🌌 About
 
-🚀 **CSM Tech Hub** is a futuristic technology hub built by CSM students focused on:
 
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning
@@ -33,7 +32,6 @@
 
 # 📊 GitHub Analytics
 
-div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahadkhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
